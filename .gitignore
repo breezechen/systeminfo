@@ -1,0 +1,13 @@
+*.pdb
+*.exp
+*.ilk
+*.obj
+*.manifest
+*.idb
+*.user
+Debug
+*.ncb
+*.pch
+BuildLog.htm
+Release
+*.aps
